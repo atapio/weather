@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/atapio/yr_api.git
-  revision: f42582192da189821e3b8cfafd1293f736d23544
+  revision: 8856e7bb7329a190201f90c2719bfc1084d96a3f
   specs:
     yr (0.0.2)
       activesupport
